@@ -1,0 +1,5 @@
+D:\kaleosoft\kaleosoftaccess\Model\bin\x86\Debug\kaleosoft.Model.dll
+D:\kaleosoft\kaleosoftaccess\Model\bin\x86\Debug\kaleosoft.Model.pdb
+D:\kaleosoft\kaleosoftaccess\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\kaleosoft\kaleosoftaccess\Model\obj\x86\Debug\kaleosoft.Model.dll
+D:\kaleosoft\kaleosoftaccess\Model\obj\x86\Debug\kaleosoft.Model.pdb

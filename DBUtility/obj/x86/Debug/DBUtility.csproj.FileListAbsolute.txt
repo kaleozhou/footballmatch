@@ -1,0 +1,7 @@
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\x86\Debug\kaleosoft.DBUtility.dll
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\x86\Debug\kaleosoft.DBUtility.pdb
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\x86\Debug\MySql.Data.dll
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\x86\Debug\System.Data.SQLite.DLL
+D:\kaleosoft\kaleosoftaccess\DBUtility\obj\x86\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\kaleosoft\kaleosoftaccess\DBUtility\obj\x86\Debug\kaleosoft.DBUtility.dll
+D:\kaleosoft\kaleosoftaccess\DBUtility\obj\x86\Debug\kaleosoft.DBUtility.pdb

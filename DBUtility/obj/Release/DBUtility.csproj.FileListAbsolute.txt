@@ -1,0 +1,4 @@
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\Release\kaleosoft.DBUtility.dll
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\Release\MySql.Data.dll
+D:\kaleosoft\kaleosoftaccess\DBUtility\bin\Release\System.Data.SQLite.DLL
+D:\kaleosoft\kaleosoftaccess\DBUtility\obj\Release\kaleosoft.DBUtility.dll
