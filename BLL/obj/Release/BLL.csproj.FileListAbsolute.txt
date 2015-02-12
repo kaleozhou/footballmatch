@@ -1,9 +1,0 @@
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\kaleosoft.BLL.dll
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\kaleosoft.DAL.dll
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\kaleosoft.Model.dll
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\Maticsoft.Common.dll
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\kaleosoft.DBUtility.dll
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\System.Data.SQLite.dll
-D:\kaleosoft\kaleosoftaccess\BLL\bin\Release\MySql.Data.dll
-D:\kaleosoft\kaleosoftaccess\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
-D:\kaleosoft\kaleosoftaccess\BLL\obj\Release\kaleosoft.BLL.dll

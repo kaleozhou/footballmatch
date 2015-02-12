@@ -1,2 +1,0 @@
-D:\kaleosoft\kaleosoftaccess\Model\bin\Release\kaleosoft.Model.dll
-D:\kaleosoft\kaleosoftaccess\Model\obj\Release\kaleosoft.Model.dll
