@@ -1,0 +1,12 @@
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\kaleosoft.DAL.dll
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\kaleosoft.DAL.pdb
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\kaleosoft.DBUtility.dll
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\kaleosoft.Model.dll
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\Maticsoft.Common.dll
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\MySql.Data.dll
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\System.Data.SQLite.dll
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\kaleosoft.DBUtility.pdb
+D:\kaleosoft\kaleosoftaccess\DAL\bin\x86\Debug\kaleosoft.Model.pdb
+D:\kaleosoft\kaleosoftaccess\DAL\obj\x86\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\kaleosoft\kaleosoftaccess\DAL\obj\x86\Debug\kaleosoft.DAL.dll
+D:\kaleosoft\kaleosoftaccess\DAL\obj\x86\Debug\kaleosoft.DAL.pdb
